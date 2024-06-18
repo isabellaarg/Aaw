@@ -71,8 +71,8 @@ Resposta:
   "username": "adminUser"
 }
 
-![image]([https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Captura%20de%20tela%202024-06-16%20192410.png](https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Captura%20de%20tela%202024-06-17%20211610.png))
+![image](https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Captura%20de%20tela%202024-06-17%20211610.png)
 
 
 ## Diagrama
-![image]([https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Diagrama%20de%20arquitetura%20JWT%20rest%20api.png))
+![image](https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Diagrama%20de%20arquitetura%20JWT%20rest%20api.png)
