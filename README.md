@@ -35,8 +35,9 @@ Corpo da Requisição:
   "password": "examploPassword",
   "role":
 }
+![image](https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Captura%20de%20tela%202024-06-16%20192218.png)
 
-### Registro de Usuário
+### Login de Usuário
 Login
 URL: /login
 Método: POST
