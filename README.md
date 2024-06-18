@@ -31,9 +31,9 @@ Método: POST
 
 Corpo da Requisição:
 {
-  "username": "examploUser",
-  "password": "examploPassword",
-  "role":
+  "username": "exemploUser",
+  "password": "exemploPassword",
+  "role": "user"
 }
 ![image](https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Captura%20de%20tela%202024-06-16%20192218.png)
 
@@ -44,9 +44,11 @@ Método: POST
 
 Corpo da Requisição:
 {
-  "username": "examploUser",
-  "password": "examploPassword"
+  "username": "exemploUser",
+  "password": "exemploPassword"
 }
+
+![image](https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Captura%20de%20tela%202024-06-16%20192343.png)
 
 ### Extrair Nome de Usuário do Token
 URL: /username/{token}
@@ -54,8 +56,10 @@ Método: GET
 
 Resposta:
 {
-  "username": "exampleUser"
+  "username": "exemploUser"
 }
+
+![image](https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Captura%20de%20tela%202024-06-16%20192410.png)
 
 ### Endpoint de Admin
 URL: /admin
@@ -66,3 +70,8 @@ Resposta:
 {
   "username": "adminUser"
 }
+
+![image]([https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Captura%20de%20tela%202024-06-16%20192410.png](https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Captura%20de%20tela%202024-06-17%20211610.png))
+
+
+## Diagrama
