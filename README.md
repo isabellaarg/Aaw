@@ -75,3 +75,4 @@ Resposta:
 
 
 ## Diagrama
+![image]([https://github.com/isabellaarg/Aaw/blob/main/JWT_RestAPI/JWT_RestAPI/assets%20aaw/Diagrama%20de%20arquitetura%20JWT%20rest%20api.png))
